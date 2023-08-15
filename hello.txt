@@ -1,1 +1,4 @@
 Halo dunia
+Update squash 1
+Update squash 2
+Update squash 3
